@@ -1,0 +1,15 @@
+{
+  "name": "atom-default-folder",
+  "main": "./lib/atom-default-folder",
+  "version": "0.1.0",
+  "description": "Allows to always open a default folder. Define it in config.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/atom-default-folder",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
